@@ -26,3 +26,4 @@ def main(num):
 
 userInput = input("Please enter a number of flips: ")
 main(userInput)
+.
